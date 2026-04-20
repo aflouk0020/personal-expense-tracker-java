@@ -1,0 +1,14 @@
+PERSONAL EXPENSE TRACKER SUMMARY REPORT
+Generated: 2026-04-20T23:46:34.970544
+
+DASHBOARD SUMMARY
+Total Income: 0
+Total Expense: 380
+Balance: -380
+
+CATEGORY SUMMARIES
+- House rent | Total: 200 | Count: 1 | Average: 200.00
+- Car Service | Total: 180 | Count: 1 | Average: 180.00
+
+MONTHLY SUMMARIES
+- APRIL 2026 | Income: 0 | Expense: 380 | Balance: -380 | Performance: Loss
